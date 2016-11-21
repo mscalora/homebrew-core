@@ -1,5 +1,5 @@
 class Airspy < Formula
-  desc "The usemode driver and associated tools for airspy"
+  desc "The usermode driver and associated tools for airspy"
   homepage "http://www.airspy.com"
   url "https://github.com/airspy/host/archive/v1.0.9.tar.gz"
   sha256 "358fea19f90bde13babc57ee7fdefeff3d8d8f5d629b0891734c5d4e811e8e6b"
